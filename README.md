@@ -1,7 +1,7 @@
 Currently working a .NET + React production webshop.
 
 Notable projects:
-- [**Clocker:**](https://github.com/D0m1s/Clocker) a mobile work time manager. Allows you clock-in/clock-out, view your working hours, export to excel. Written in **Flutter**.
+- [**Clocker:**](https://github.com/D0m1s/Clocker) a mobile work time manager. Allows you clock-in/clock-out, view your working hours, export to excel. Written in **Dart (Flutter framework)**.
 <!---
 D0m1s/D0m1s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
